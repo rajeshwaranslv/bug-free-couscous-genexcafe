@@ -23,7 +23,7 @@
     {
       "id": 5,
       "name": "Table 5",
-      "status": "available"
+      "status": "occupied"
     },
     {
       "id": 6,
@@ -831,6 +831,352 @@
       "id": 61,
       "itemId": 2,
       "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 1,
+          "quantity": 1
+        }
+      ],
+      "id": 62
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 1,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 63,
+      "itemId": 2,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 1,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 64,
+      "itemId": 3,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 1,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 7,
+          "quantity": 1
+        }
+      ],
+      "id": 65,
+      "itemId": 4,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 8,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 6,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 66,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 6,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 67,
+      "itemId": 5,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 68
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 69,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 3,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 6,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 7,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 8,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 2,
+          "quantity": 1
+        },
+        {
+          "foodItemId": 1,
+          "quantity": 1
+        }
+      ],
+      "id": 70,
+      "itemId": 5,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 71,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 72,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 73,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 74,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 75,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 76,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 77,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 78,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 79,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 80,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": 81,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 82,
+      "itemId": 1,
+      "status": "served"
+    },
+    {
+      "tableId": 5,
+      "items": [
+        {
+          "foodItemId": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 83
     }
   ],
   "bills": [
@@ -1097,6 +1443,90 @@
       "customerName": "Customer",
       "customerPhone": "0000000000",
       "id": 41
+    },
+    {
+      "orderId": 63,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 42
+    },
+    {
+      "orderId": 64,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 43
+    },
+    {
+      "orderId": 65,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 44
+    },
+    {
+      "orderId": 70,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 45
+    },
+    {
+      "orderId": 71,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 46
+    },
+    {
+      "orderId": 72,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 47
+    },
+    {
+      "orderId": 73,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 48
+    },
+    {
+      "orderId": 74,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 49
+    },
+    {
+      "orderId": 75,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 50
+    },
+    {
+      "orderId": 76,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 51
+    },
+    {
+      "orderId": 77,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 52
+    },
+    {
+      "orderId": 78,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 53
+    },
+    {
+      "orderId": 79,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 54
+    },
+    {
+      "orderId": 81,
+      "customerName": "Customer",
+      "customerPhone": "0000000000",
+      "id": 55
     }
   ]
 }
