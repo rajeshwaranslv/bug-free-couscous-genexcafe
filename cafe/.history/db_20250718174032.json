@@ -1535,88 +1535,6 @@
       "id": 108,
       "itemId": 1,
       "status": "served"
-    },
-    {
-      "tableId": 3,
-      "items": [
-        {
-          "foodItemId": 4,
-          "quantity": 1
-        }
-      ],
-      "id": 109
-    },
-    {
-      "tableId": 5,
-      "items": [
-        {
-          "foodItemId": 5,
-          "quantity": 1
-        }
-      ],
-      "id": 110
-    },
-    {
-      "tableId": 4,
-      "items": [
-        {
-          "foodItemId": 4,
-          "quantity": 1
-        }
-      ],
-      "id": 111
-    },
-    {
-      "tableId": 7,
-      "items": [
-        {
-          "foodItemId": 5,
-          "quantity": 1
-        },
-        {
-          "foodItemId": 4,
-          "quantity": 1
-        },
-        {
-          "foodItemId": 3,
-          "quantity": 1
-        }
-      ],
-      "id": 112,
-      "itemId": 3,
-      "status": "served"
-    },
-    {
-      "tableId": 4,
-      "items": [
-        {
-          "foodItemId": 4,
-          "quantity": 1
-        }
-      ],
-      "id": 113,
-      "itemId": 1,
-      "status": "served"
-    },
-    {
-      "tableId": 4,
-      "items": [
-        {
-          "foodItemId": 4,
-          "quantity": 1
-        },
-        {
-          "foodItemId": 5,
-          "quantity": 1
-        },
-        {
-          "foodItemId": 6,
-          "quantity": 1
-        }
-      ],
-      "id": 114,
-      "itemId": 3,
-      "status": "served"
     }
   ],
   "bills": [
@@ -2057,48 +1975,6 @@
       "customerName": "Customer",
       "customerPhone": "0000000000",
       "id": 70
-    },
-    {
-      "orderId": 109,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 71
-    },
-    {
-      "orderId": 110,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 72
-    },
-    {
-      "orderId": 111,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 73
-    },
-    {
-      "id": 74
-    },
-    {
-      "id": 75
-    },
-    {
-      "orderId": 112,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 76
-    },
-    {
-      "orderId": 113,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 77
-    },
-    {
-      "orderId": 114,
-      "customerName": "Customer",
-      "customerPhone": "0000000000",
-      "id": 78
     }
   ]
 }
