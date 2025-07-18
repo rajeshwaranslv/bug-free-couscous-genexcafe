@@ -21,9 +21,9 @@ const router = jsonServer.router(path.join(__dirname, 'db.json'));
 const middlewares = jsonServer.defaults();
 app.use('/api', middlewares, router);
 
-// Start server (critical: use 0.0.0.0 for Render)
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 Cafe API Server running on http://0.0.0.0:${PORT}`);
-  console.log(`📚 API Documentation at http://0.0.0.0:${PORT}/api-docs`);
-  console.log(`📦 JSON API available at http://0.0.0.0:${PORT}/api`);
+// Start server
+app.listen(PORT, () => {
+  console.log(`🚀 Cafe API Server running on http://localhost:${PORT}`);
+  console.log(`📚 API Documentation at http://localhost:${PORT}/api-docs`);
+  console.log(`📦 JSON API available at http://localhost:${PORT}/api`);
 });
