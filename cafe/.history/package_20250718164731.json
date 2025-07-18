@@ -1,0 +1,27 @@
+{
+  "name": "cafe-waiter-api",
+  "version": "1.0.0",
+  "description": "POC backend API for Cafe Waiter Order Taking App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "json-server": "json-server --watch db.json --port 3001",
+    "start-all": "concurrently \"npm run json-server\" \"npm run dev\""
+  },
+  "keywords": ["cafe", "orders", "api", "express", "json-server"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4",
+    "axios": "^1.6.0",
+    "swagger-ui-express": "^5.0.0",
+    "swagger-jsdoc": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "concurrently": "^8.2.2"
+  }
+} 
